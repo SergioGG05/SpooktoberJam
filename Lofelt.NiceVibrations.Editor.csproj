@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{94f1a7a4-9d2d-451a-2ce4-40cdc74f79f1}</ProjectGuid>
+    <ProjectGuid>{c04354ee-d64f-2be4-15d5-2bca1eee5e3c}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -314,34 +314,34 @@
      <HintPath>E:\Unity\2022.3.12f1\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.UWP.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.YamlDotNet">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.testtools.codecoverage@1.2.4\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.testtools.codecoverage@1.2.4\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="unityplastic">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Plastic.Antlr3.Runtime">
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Newtonsoft.Json">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="log4netPlastic">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.IonicZip">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.TextureAssets">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="mscorlib">
      <HintPath>E:\Unity\2022.3.12f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -719,21 +719,21 @@
      <HintPath>E:\Unity\2022.3.12f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>E:\Unity\My project\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>E:\Unity\My project\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.TestRunner">
-     <HintPath>E:\Unity\My project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TestRunner">
-     <HintPath>E:\Unity\My project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Lofelt.NiceVibrations.csproj">
-      <Project>{06effda8-e72d-f5af-4ef9-eeaeac537a72}</Project>
+      <Project>{1028a97f-05be-7079-c9f2-fa168eafb4c8}</Project>
       <Name>Lofelt.NiceVibrations</Name>
     </ProjectReference>
   </ItemGroup>

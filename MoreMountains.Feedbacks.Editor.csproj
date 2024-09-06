@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{debc3c97-8fd0-354a-e508-5f6ee2c0a721}</ProjectGuid>
+    <ProjectGuid>{410e197b-21ef-9e51-2545-a02db2dd343d}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -47,8 +47,8 @@
   <ItemGroup>
      <Compile Include="Assets\Feel\MMFeedbacks\Editor\Sequencing\MMInputSequenceRecorderEditor.cs" />
      <Compile Include="Assets\Feel\MMFeedbacks\Editor\Core\MMF_PlayerEditor.cs" />
-     <Compile Include="Assets\Feel\MMFeedbacks\Editor\Core\MMFeedbackStyling.cs" />
      <Compile Include="Assets\Feel\MMFeedbacks\Editor\Core\MMFeedbacksConfiguration.cs" />
+     <Compile Include="Assets\Feel\MMFeedbacks\Editor\Core\MMFeedbackStyling.cs" />
      <Compile Include="Assets\Feel\MMFeedbacks\Editor\Core\MMF_PlayerCopy.cs" />
      <Compile Include="Assets\Feel\MMFeedbacks\Editor\Core\MMF_PlayerConfiguration.cs" />
      <Compile Include="Assets\Feel\MMFeedbacks\Editor\Core\MMF_FeedbackInspector.cs" />
@@ -336,34 +336,34 @@
      <HintPath>E:\Unity\2022.3.12f1\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.UWP.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.YamlDotNet">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.testtools.codecoverage@1.2.4\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.testtools.codecoverage@1.2.4\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="unityplastic">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Plastic.Antlr3.Runtime">
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Newtonsoft.Json">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="log4netPlastic">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.IonicZip">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.TextureAssets">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>E:\Unity\My project\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="mscorlib">
      <HintPath>E:\Unity\2022.3.12f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -741,21 +741,21 @@
      <HintPath>E:\Unity\2022.3.12f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>E:\Unity\My project\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>E:\Unity\My project\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.TestRunner">
-     <HintPath>E:\Unity\My project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TestRunner">
-     <HintPath>E:\Unity\My project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
+     <HintPath>E:\Unity\SpooktoberJam\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MoreMountains.Feedbacks.csproj">
-      <Project>{8c7f4467-ea80-f695-4d9f-53c1331394a5}</Project>
+      <Project>{21dd1860-2230-acec-f478-1f48cd783e76}</Project>
       <Name>MoreMountains.Feedbacks</Name>
     </ProjectReference>
   </ItemGroup>
